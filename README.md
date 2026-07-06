@@ -188,14 +188,6 @@ reasoning about edge cases is more realistic than a perfect score.
 
 ---
 
-## Ideas to extend further
-
-1. **Assign to team**: auto-suggest which internal team handles each category.
-2. **SLA tracking**: flag tickets that have been "urgent" for over X hours.
-3. **Response-time dashboard**: track how quickly tickets get resolved.
-4. **Swap SQLite → PostgreSQL** for real multi-user/production use.
-5. **Containerize with Docker** for easier deployment and consistent environments.
-
 ---
 
 ## Screenshots

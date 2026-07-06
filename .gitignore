@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+tickets.db
+.DS_Store

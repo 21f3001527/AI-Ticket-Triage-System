@@ -188,7 +188,6 @@ reasoning about edge cases is more realistic than a perfect score.
 
 ---
 
----
 
 ## Screenshots
 
